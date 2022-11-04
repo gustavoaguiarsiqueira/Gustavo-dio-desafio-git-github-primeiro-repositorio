@@ -1,2 +1,2 @@
-# Gustavo-dio-desafio-git-github-primeiro-repositorio
-Desafio de projeto Git/Github
+# Repositório para desafio DIO git/github
+Desafio de projeto Git/Github.
