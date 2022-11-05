@@ -1,0 +1,2 @@
+O git e github são repositórios que podem ser compartilhados para outras pessoas, do tipo "Open source"
+com o objetivo de cada um poder contribuir para as linhas de códigos da pessoa.
